@@ -1,4 +1,4 @@
-# This is the Library Management Project
+# This is the Library Management Project in python
 class Library:
     # Library Constructer
     def __init__(self,list1,name):
